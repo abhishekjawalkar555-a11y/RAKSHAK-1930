@@ -11,4 +11,5 @@ scam. In these scenarios, fraudsters impersonate law enforcement or government o
 
 The website also offers instant emergency guidance, clearly displays the national cybercrime helpline (1930), and educates users about common scam tactics such as impersonation of law enforcement and fear-based manipulation.
 
-By combining awareness, early detection, and quick response support, Rakshak 1930 aims to reduce financial fraud, improve digital literacy among senior citizens, and create a safer digital environment for vulnerable individuals.
+"<img width="500" height="500" alt="ChatGPT Image Feb 27, 2026 at 02_02_18 PM" src="https://github.com/user-attachments/assets/b44cbbcd-29c9-4d64-b3b7-cbc2a82ec92f" />
+
