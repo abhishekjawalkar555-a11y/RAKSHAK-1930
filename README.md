@@ -79,6 +79,9 @@ The website also offers instant emergency guidance, clearly displays the nationa
 ### PPT FILE
 
 2 SLIDES ARE COMPLETED AND MORE TO GO...
+PPT STILL IN PROGRESS 
+DEMO VIDEO IS IN PROCESS
+PROTOTYPE IS READY
 
 
 
