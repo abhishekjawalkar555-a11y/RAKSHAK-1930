@@ -12,4 +12,26 @@ scam. In these scenarios, fraudsters impersonate law enforcement or government o
 The website also offers instant emergency guidance, clearly displays the national cybercrime helpline (1930), and educates users about common scam tactics such as impersonation of law enforcement and fear-based manipulation.
 
 "<img width="500" height="500" alt="ChatGPT Image Feb 27, 2026 at 02_02_18 PM" src="https://github.com/user-attachments/assets/b44cbbcd-29c9-4d64-b3b7-cbc2a82ec92f" />
+<h3>features</h3>
+<br>
+One-Tap 1930 Emergency Helpline Button – Instant calling support during fraud situations.
 
+Direct Cyber Crime Reporting Portal Link – Quick access to the official complaint website.
+
+Suspicious Message / Call Checker – Helps identify potential scam messages.
+
+Digital Arrest Scam Awareness Section – Explains how scammers threaten victims.
+
+Step-by-Step Emergency Guidance – Clear instructions on what to do during a fraud call.
+
+Senior-Friendly UI Design – Large fonts, simple layout, and easy navigation.
+
+OTP & Banking Safety Tips – Prevents sharing sensitive financial details.
+
+Warning Signs of Fake Police / CBI Calls – Helps seniors recognize red flags.
+
+Mobile Responsive Design – Works smoothly on phones and tablets.
+
+Trust-Based Security Theme – Calm blue and green color combination for confidence and safety.
+
+If you want, I can also convert this into a hackathon presentation slide format for judges.
