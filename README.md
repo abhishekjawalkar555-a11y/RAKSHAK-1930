@@ -86,8 +86,10 @@ https://rakshak-guard-1930.lovable.app
 <hr/>
 
 ### PPT IS ADDED
+<hr/>
 
-### PROTOTYPE OF OUR PROJECT IS ADDED
+### prototype of our project is added
+<hr/>
 
 
 
